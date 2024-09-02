@@ -24,9 +24,38 @@ O projeto consiste na composição de uma tabela que conta com capitais brasilei
 
 ### Resultado do projeto
 
-![Eesultado final do projeto]()
+#### Tabela 
+
+* table - representa dados tabulares — isto é, informações apresentadas em uma tabela bidimensional composta por linhas e colunas de células contendo dados .
+* tr - significa 'linha da tabela
 
 
+Veja uma imagem de parte do código, onde é possível imdentificar uso dos elementos mencionadas acima:
+
+![](img/elementos.PNG)
+
+* td -significa 'dados da tabela
+
+![](img/TD.PNG)
+
+
+ A seguir você vera a imagem do resultado final do projeto
+
+![Resultado final do projeto](img/resultado-final.PNG)
+
+
+### Estilização
+
+O projeto foi estilizado, utilizando CSSS3. Foi criado um arquivo chamado style.css. Nesse arquivo, constam configurações de estilo apresentadas a seguir:
+
+* Estilo de cores - A cor de fundo utilizada no projeto foi definida no projeto foi definida como segue:
+
+```
+largColuna{
+    width: 200px;
+    background-color: rgb(242, 255, 61);
+}
+```
 
 
 ## Tecnologias
